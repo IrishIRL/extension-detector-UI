@@ -1,0 +1,12 @@
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\bin\Debug\extension-detector-v2.exe.config
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\bin\Debug\extension-detector-v2.exe
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\bin\Debug\extension-detector-v2.pdb
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\bin\Debug\Winista.MimeDetect.dll
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\obj\Debug\extension-detector-v2.csprojAssemblyReference.cache
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\obj\Debug\extension_detector_v2.Form1.resources
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\obj\Debug\extension_detector_v2.Properties.Resources.resources
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\obj\Debug\extension-detector-v2.csproj.GenerateResource.cache
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\obj\Debug\extension-detector-v2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\obj\Debug\extension-detector-v2.csproj.CopyComplete
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\obj\Debug\extension-detector-v2.exe
+D:\Visual Studio Apps\extension-detector-v2\extension-detector-v2\obj\Debug\extension-detector-v2.pdb
